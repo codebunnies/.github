@@ -1,4 +1,4 @@
-![](https://photos.photobunny.co.uk/codebunnies-logo.svg)
+![codeBunnies](https://photos.photobunny.co.uk/codebunnies-logo.svg)
 
 ## Hi there 👋
 

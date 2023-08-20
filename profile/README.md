@@ -1,8 +1,6 @@
-![codeBunnies](https://photos.photobunny.co.uk/codebunnies-logo.svg)
+![codeBunnies](https://photos.photobunny.co.uk/codebunnies-logo.png)
 
 ## Hi there 👋
-
-We know our logo still has its watermark. The illustator is finalising the delivery and we are looking forward to receiving it (without watermarks.)
 <!--
 
 **Here are some ideas to get you started:**

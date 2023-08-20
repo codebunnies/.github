@@ -1,4 +1,8 @@
-![codeBunnies](https://photos.photobunny.co.uk/codebunnies-logo.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="">
+  <source media="(prefers-color-scheme: light)" srcset="https://photos.photobunny.co.uk/codebunnies-logo.png">
+  <img alt="codeBunnies" src="https://photos.photobunny.co.uk/codebunnies-logo.png">
+</picture>
 
 ## Hi there 👋
 <!--

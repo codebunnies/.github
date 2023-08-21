@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://photos.photobunny.co.uk/codebunnies-logo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://photos.photobunny.co.uk/codebunnies-logo.png">
-  <img alt="codeBunnies" src="https://photos.photobunny.co.uk/codebunnies-logo.png">
+  <img alt="codeBunnies" src="https://photos.photobunny.co.uk/codebunnies-logo-dark.png">
 </picture>
 
 ## Hi there 👋

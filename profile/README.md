@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://photos.photobunny.co.uk/codeBunnies-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://photos.photobunny.co.uk/codeBunnies-light.png">
-  <img alt="codeBunnies" src="https://photos.photobunny.co.uk/codeBunnies-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://photos.photobunny.co.uk/codeBunnies-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://photos.photobunny.co.uk/codeBunnies-dark.png">
+  <img alt="codeBunnies" src="https://photos.photobunny.co.uk/codeBunnies-light.png">
 </picture>
 
 ## Hi there 👋

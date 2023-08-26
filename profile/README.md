@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.codebunnies.com/img/logo/codebunnies-dark-theme-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://www.codebunnies.com/img/logo/codebunnies-light-theme-logo.svg">
-  <img alt="codeBunnies" src="https://www.codebunnies.com/img/logo/codebunnies-light-theme-logo.svg" width="450px" height="88px">
+  <img alt="codeBunnies" src="https://www.codebunnies.com/img/logo/codebunnies-dark-theme-logo.svg" width="450px" height="88px">
 </picture>
 
 ## Hi there 👋

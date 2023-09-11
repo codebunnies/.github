@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.codebunnies.com/img/logo/codebunnies-dark-theme-logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://codebunnies.com/img/logo/logo-white.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://codebunnies.com/img/logo/logo.svg">
   <img alt="codeBunnies" src="https://codebunnies.com/img/logo/logo.svg" width="450px" height="88px">
 </picture>
